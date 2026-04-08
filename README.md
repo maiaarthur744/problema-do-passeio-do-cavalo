@@ -1,6 +1,6 @@
 # Passeio do Cavalo
 
-Implementação da solução computacional para o problema do Passeio do Cavalo utilizando a Heurística de Warnsdorff em Python. 
+Implementação da solução computacional para o problema do Passeio do Cavalo utilizando a Heurística de Warnsdorff e algoritmo de backtracking em Python. 
 Trabalho prático para a disciplina de Teoria da Computação.
 
 ## Como executar
